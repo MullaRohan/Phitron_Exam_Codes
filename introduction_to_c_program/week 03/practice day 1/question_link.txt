@@ -1,0 +1,13 @@
+
+
+doc_link: https://docs.google.com/document/d/1geZ2RYI0CXKm3O0Y5O9643MR8tlf82G_ozJexc06RrA/edit
+
+M. Replace MinMax: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M
+
+F. Way Too Long Words: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F
+
+G. Conversion: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G
+
+I. Palindrome: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I
+
+D. Strings: https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D

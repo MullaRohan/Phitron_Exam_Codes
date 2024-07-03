@@ -1,0 +1,11 @@
+
+doc_link: https://docs.google.com/document/d/1uzoOl9K0McJaxyy_o0p4la_sGCC8A-O8/edit
+
+P. Shape1: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P
+
+T. Shape2: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T
+
+W. Shape3: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W
+
+H. Sorting: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H
+
