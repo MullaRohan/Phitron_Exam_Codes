@@ -1,0 +1,9 @@
+// question link on a_practice_link
+
+#include <stdio.h>
+#include <string.h>
+int main()
+{
+    printf("Hello, world! I am learning C programming language. ^_^\nProgramming is fun and challenging. /\\/\\/\\\nI want to give my 100%% dedication to learn!    I will succeed one day.");
+    return 0;
+}
